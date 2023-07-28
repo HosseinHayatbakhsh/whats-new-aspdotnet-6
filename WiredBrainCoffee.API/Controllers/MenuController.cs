@@ -27,7 +27,7 @@ namespace WiredBrainCoffee.Api.Controllers
                 new MenuItem()
                 {
                     Id = 6,
-                    Name = "Cupcake",
+                    Name = "Cupcake2",
                     ShortDescription = "Vanilla cupcakes with the perfect level of sweetness.",
                     Description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, tenetur natus doloremque laborum quos iste ipsum rerum obcaecati impedit odit illo dolorum ab tempora nihil dicta earum fugiat. Temporibus, voluptatibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, tenetur natus doloremque laborum quos iste ipsum rerum obcaecati impedit odit illo dolorum ab tempora nihil dicta earum fugiat. Temporibus, voluptatibus.",
                     ImageFile = "images/menu/cupcake.png",
